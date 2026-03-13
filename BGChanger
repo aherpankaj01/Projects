@@ -1,0 +1,1 @@
+A simple React project that allows users to dynamically change the background color of the page by clicking color buttons. This project demonstrates the use of React functional components, the useState hook for state management, dynamic rendering using map(), event handling with onClick, conditional styling, and UI styling with Tailwind CSS.
